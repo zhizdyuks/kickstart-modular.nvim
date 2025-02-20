@@ -26,6 +26,10 @@ return {
           --   end,
           -- },
         },
+        -- opts = {
+        --   history = true,
+        --   delete_check_events = 'TextChanged',
+        -- },
       },
       'saadparwaiz1/cmp_luasnip',
 
